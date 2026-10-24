@@ -1,2 +1,1 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/chihieudz19/OnTop/refs/heads/main/SrTongHop.lua"))()
+loadstring(game:HttpGet("https://vault.pandauth.com/vss/6f91dc37dd04fca7"))()
